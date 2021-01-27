@@ -1,0 +1,1 @@
+connection_string=Data source=177.251.251.179:441;User ID=q0;Pwd=V+8dUauvv*jO3Bch
