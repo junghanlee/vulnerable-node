@@ -1,3 +1,1 @@
 connection_string=Data source=177.251.251.179:441;User ID=q0;Pwd=V+8dUauvv*jO3Bch
-
-"https://hooks.slack.com/services/T01aR1YPRJB/B01J5QXR9C2/0DiiaMEgjYAGoEH
