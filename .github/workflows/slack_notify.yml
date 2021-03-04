@@ -12,4 +12,7 @@ jobs:
         SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
         SLACK_CHANNEL: test
         SLACK_USERNAME: Github
+        SLACK_ICON: https://github.com/opengraph.png
+        SLACK_COLOR: '#3278BD'
+        SLACK_TITLE: Serect or Credentials Detect
 
